@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\curso-docker-ferramenta-essencial",
+    "\\curso-docker-ferramenta-essencial\\ex-volume"
   ],
   "SelectedNode": "\\curso-docker-ferramenta-essencial",
   "PreviewInSolutionExplorer": false
